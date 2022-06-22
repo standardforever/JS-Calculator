@@ -1,3 +1,5 @@
 Build a basic arithmetic calculator without a frontend
 
-     The calculator should be able to perform basic operations like Addition, Subtraction, Multiplication, & Division
+The calculator should be able to perform basic operations like Addition, Subtraction, Multiplication, & Division
+     
+The link to the page >>>>>>> https://standardforever.github.io/JS-Calculator/  
